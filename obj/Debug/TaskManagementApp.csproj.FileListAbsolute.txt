@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\TaskManagementApp.exe.config
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\TaskManagementApp.exe
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\TaskManagementApp.pdb
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\TaskManagementApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\TaskManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\TaskManagementApp.csproj.CopyComplete
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\TaskManagementApp.exe
+C:\Users\User\source\repos\TaskManagementApp\TaskManagementApp\obj\Debug\TaskManagementApp.pdb
